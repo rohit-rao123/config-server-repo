@@ -1,2 +1,2 @@
-# config-server-repo
+# spring-client
 Checking centralized microservice
